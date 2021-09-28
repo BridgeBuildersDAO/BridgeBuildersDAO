@@ -9,5 +9,10 @@ The Bridge Builder's DAO is incentivised to find projects to build for hackathon
 Posting your work and getting a team together is vital to creating a successful project. 
 
  - 📺 Bridge Builders DAO will Host a livestream project presentation for you, to attract employeer's, investors and other such talent to your project. 
+- WATCH OUR PROJECT DEMO -
+https://www.youtube.com/watch?v=m8eqkFupJUk&t=1s
+
+Would you like to join the DAO, find a project and start finding a fundraiser? Join our Telegram -> https://t.me/joinchat/M3EIdO0VWjAxZDhh
+
 
 
