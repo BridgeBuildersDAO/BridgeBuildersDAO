@@ -14,5 +14,5 @@ https://www.youtube.com/watch?v=m8eqkFupJUk&t=1s
 
 Would you like to join the DAO, find a project and start finding a fundraiser? Join our Telegram -> https://t.me/joinchat/M3EIdO0VWjAxZDhh
 
-
+View issues to see a bounty that you can begin working on and publish
 
